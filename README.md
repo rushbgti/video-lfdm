@@ -1,4 +1,4 @@
-# video-lfdm bot trading
+# video-lfdm bot trading CryptoRobotFr
 https://github.com/CryptoRobotFr/video-lfdm
 
 Commande
