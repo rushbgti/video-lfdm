@@ -26,6 +26,6 @@ mkdir log
 
 echo -e "${vertclaire}Création de la boucle d'actualisation du bot${neutre}"
 echo "# trading bot 1h" >> /hive/etc/crontab.root
-echo "00 */1 * * * /env/bin/python3 /home/user/video-lfdm/cross_ema_live.py >> /home/user/video-lfdm/log/log.log" >> /hive/etc/crontab.root
+echo "00 */1 * * * /env/bin/python3 /video-lfdm/cross_ema_live.py >> /video-lfdm/log/log.log" >> /hive/etc/crontab.root
 
 echo -e "${vertclaire}Installation réussite renseignez votre clé API${neutre}"
