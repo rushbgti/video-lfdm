@@ -43,6 +43,6 @@ cat /video-lfdm/log/log.log
 # c est ok :)
 
 
-
+cat /video-lfdm/log/log.log
 cd /video-lfdm/log/ && touch log.log
 
