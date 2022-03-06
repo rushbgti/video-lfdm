@@ -28,6 +28,7 @@ python3 cross_ema_live.py
 
 # vérifier qu il fonctionne 
 cat /video-lfdm/log/log.log
+exit
 
 # CRONTAB ne fonctionneras pas. Pour vérifier que le bot s'est bien exécuté après le reboot taper
 crontab -e
