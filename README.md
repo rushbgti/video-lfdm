@@ -44,5 +44,5 @@ cat /video-lfdm/log/log.log
 
 
 
-
+cd /video-lfdm/log/ && touch log.log
 
