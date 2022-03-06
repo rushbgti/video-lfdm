@@ -47,4 +47,13 @@ cat /video-lfdm/log/log.log
 # c est ok :)
 
 
-
+########################################
+## Ceux qui ont un soucis d'update sous hiveos, avec un message indiquant à un moment 
+## No module named apt_pkg
+ 
+sudo apt remove python3-apt ## (valider avec y + entrer)
+sudo apt autoremove
+sudo apt autoclean
+sudo apt install python3-apt
+sudo apt update
+sudo apt upgrade
