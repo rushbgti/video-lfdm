@@ -23,6 +23,8 @@ nano cross_ema_live.py
 source /env/bin/activate
 
 python3 cross_ema_live.py
+
+
 exit
 # une fois activer Je n'ai rien envie de faire. Il suffit d'attendre
 
