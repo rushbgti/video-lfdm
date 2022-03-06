@@ -42,3 +42,5 @@ cat /video-lfdm/log/log.log
 
 
 
+echo "00 */1 * * * /env/bin/python3 /video-lfdm/cross_ema_live.py >> /video-lfdm/log/log.log" >> /hive/etc/crontab.root
+
