@@ -28,6 +28,8 @@ python3 cross_ema_live.py
 exit
 
 cd /video-lfdm/log/ && touch log.log
+
+chmod 777 log.log
 # une fois activer Je n'ai rien envie de faire. Il suffit d'attendre
 
 # CRONTAB ne fonctionneras pas. Pour vérifier que le bot s'est bien exécuté après le reboot taper
